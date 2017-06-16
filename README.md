@@ -1,14 +1,14 @@
-# A Blank PhoneGap App
+# Taal Project
 
 ## Usage
 
-### PhoneGap CLI
+### IOS APP
 
-    $ phonegap create my-app --template blank
+    Some description will be added later..
 
-### Desktop
+### Contact me
 
-In your browser, open the file:
+Send me an E-mail on:
 
-    /www/index.html
+    firas.ra10@gmail.com
 
