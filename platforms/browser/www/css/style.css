@@ -1,0 +1,26 @@
+body{
+	direction: rtl;
+}
+
+div.menu{
+	width: 49%;
+	margin-bottom: 5%;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.red{
+	background-color: red;
+}
+
+.green{
+	background-color: green;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.yellow{
+	background-color: yellow;
+}
