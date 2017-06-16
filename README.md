@@ -2,9 +2,9 @@
 
 ## Usage
 
-### IOS APP
+### Phonegap APP
 
-    Some description will be added later..
+    This app will be build to IOS and Android Applications to help people with accessibility problems.
 
 ### Contact me
 
